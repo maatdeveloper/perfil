@@ -1,0 +1,14 @@
+header {
+    padding-top: 0px;
+}
+
+header ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+header ul li {
+    margin: 15px;
+    margin-top: 5px;
+}
